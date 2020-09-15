@@ -1,0 +1,21 @@
+10
+1 2 6 10
+There is writing in blood on the wall that reads "BEWARE OF ICE AGE BABY!"
+2 1 3 7
+There is a pool of blood in the corner.
+3 2 4 8
+You stumbled across a disgusting carcass.
+4 3 5 9
+You found a dead prison guard.
+5 4 6 10
+You almost step on broken glass!
+6 1 5 7
+You can hear prisoners in their cells.
+7 2 6 8
+You find a butter croissant on the floor!
+8 3 7 9
+You find bloody foot prints!
+9 4 8 10
+You sense danger down the hall.
+10 1 5 9
+You hear blaster shots nearby!
